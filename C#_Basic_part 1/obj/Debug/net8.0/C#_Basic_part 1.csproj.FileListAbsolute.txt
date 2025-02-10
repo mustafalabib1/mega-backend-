@@ -1,0 +1,14 @@
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\bin\Debug\net8.0\C#_Basic_part 1.exe
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\bin\Debug\net8.0\C#_Basic_part 1.deps.json
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\bin\Debug\net8.0\C#_Basic_part 1.runtimeconfig.json
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\bin\Debug\net8.0\C#_Basic_part 1.dll
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\bin\Debug\net8.0\C#_Basic_part 1.pdb
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\obj\Debug\net8.0\C#_Basic_part 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\obj\Debug\net8.0\C#_Basic_part 1.AssemblyInfoInputs.cache
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\obj\Debug\net8.0\C#_Basic_part 1.AssemblyInfo.cs
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\obj\Debug\net8.0\C#_Basic_part 1.csproj.CoreCompileInputs.cache
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\obj\Debug\net8.0\C#_Basic_part 1.dll
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\obj\Debug\net8.0\refint\C#_Basic_part 1.dll
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\obj\Debug\net8.0\C#_Basic_part 1.pdb
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\obj\Debug\net8.0\C#_Basic_part 1.genruntimeconfig.cache
+E:\Mustafa\Programming language\C#\C#_Basic_part 1\C#_Basic_part 1\obj\Debug\net8.0\ref\C#_Basic_part 1.dll
